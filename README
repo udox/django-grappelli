@@ -1,0 +1,4 @@
+# Django Grappelli - UDOX Fork
+
+This is for us to make changes (typically on internal branch) and merge in the master
+patches from the main project.
